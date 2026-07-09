@@ -9,6 +9,7 @@
 #define Ente_hpp
 
 #include <stdio.h>
+#include "Gerenciador_Grafico.hpp"
 class Ente{
 protected:
     int id;
